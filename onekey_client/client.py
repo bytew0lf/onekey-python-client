@@ -1,12 +1,8 @@
 import functools
 import gc
 import secrets
+from importlib import resources
 from pathlib import Path
-
-try:
-    from importlib import resources
-except ImportError:
-    import importlib_resources as resources
 
 import httpx
 from authlib.jose import jwt
