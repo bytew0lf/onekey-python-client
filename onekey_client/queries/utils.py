@@ -1,11 +1,7 @@
 import functools
+from importlib import resources
 
 from .. import queries
-
-try:
-    from importlib import resources
-except ImportError:
-    import importlib_resources as resources
 
 
 @functools.lru_cache
