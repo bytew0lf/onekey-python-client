@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "GoPrAxtXmPA=",
+  "success": true,
+  "projectFilePath": "/Users/mkoenig/Projects/Python/onekey-python-client/dotnet-client/src/OneKey.Cli/OneKey.Cli.csproj",
+  "expectedPackageFiles": [
+    "/Users/mkoenig/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/mkoenig/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/mkoenig/.nuget/packages/microsoft.identitymodel.abstractions/8.6.1/microsoft.identitymodel.abstractions.8.6.1.nupkg.sha512",
+    "/Users/mkoenig/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.6.1/microsoft.identitymodel.jsonwebtokens.8.6.1.nupkg.sha512",
+    "/Users/mkoenig/.nuget/packages/microsoft.identitymodel.logging/8.6.1/microsoft.identitymodel.logging.8.6.1.nupkg.sha512",
+    "/Users/mkoenig/.nuget/packages/microsoft.identitymodel.tokens/8.6.1/microsoft.identitymodel.tokens.8.6.1.nupkg.sha512",
+    "/Users/mkoenig/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "/Users/mkoenig/.nuget/packages/system.identitymodel.tokens.jwt/8.6.1/system.identitymodel.tokens.jwt.8.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

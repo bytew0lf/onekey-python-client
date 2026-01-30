@@ -1,0 +1,14 @@
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/bin/Debug/net9.0/Keys/ca.pem
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/bin/Debug/net9.0/OneKey.Client.deps.json
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/bin/Debug/net9.0/OneKey.Client.dll
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/bin/Debug/net9.0/OneKey.Client.pdb
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.csproj.AssemblyReference.cache
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.AssemblyInfoInputs.cache
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.AssemblyInfo.cs
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.csproj.CoreCompileInputs.cache
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.sourcelink.json
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.dll
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/refint/OneKey.Client.dll
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/OneKey.Client.pdb
+/Users/mkoenig/Projects/Python/python-client/dotnet-client/src/OneKey.Client/obj/Debug/net9.0/ref/OneKey.Client.dll
